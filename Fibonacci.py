@@ -1,4 +1,4 @@
-x=input() #to get input
+x=int(input()) #to get input
 lst=list() #creating a list
 for i in range(x): #using for loop for appending the lst(list)
     if i == 0:
